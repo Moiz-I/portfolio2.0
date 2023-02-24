@@ -1,9 +1,15 @@
+import Image from "next/image";
+import memoji from "../public/memoji.png";
+import { useState, CSSProperties } from "react";
+import { NextProgressbarSpinner } from "nextjs-progressbar-spinner";
+
+import Home from "./home";
+
 export default function Index() {
     return (
         <>
-            <h1>Hello world!</h1>
-            <p>This is a starter template you can use for Web Dev for Makers projects.</p>
-            <img src="/logo.png" alt="Web Dev for Makers Logo" />
+            <NextProgressbarSpinner />
+            <Home />
         </>
     );
 }
