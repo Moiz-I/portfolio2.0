@@ -4,10 +4,10 @@ import memoji from "../public/memoji.png";
 export default function Home() {
     return (
         <>
-            {/* <h1>Hello world!</h1>
+            {/* <h1>Hello world!</h1> 
             <p>
                 This is a starter template you can use for Web Dev for Makers
-                projects.
+                projects.fff
             </p>
             <div className="m-32 bg-red-400">
                 <p>hello</p>
@@ -51,19 +51,19 @@ export default function Home() {
                                     </div>
                                     <div className="flex mt-6 lg:mt-12 lg:text-xl">
                                         <a
-                                            href="https://github.com"
+                                            href="https://github.com/moiz-i"
                                             className="text-gray-300 hover:text-gray-900 mr-4 lg:mr-6"
                                         >
                                             <i className="fab fa-github fa-2x"></i>
                                         </a>
                                         <a
-                                            href="https://linkedin.com"
+                                            href="https://linkedin.com/in/moizimran"
                                             className="text-gray-300 hover:text-blue-300 mx-4 lg:mx-6"
                                         >
                                             <i className="fab fa-linkedin fa-2x"></i>
                                         </a>
                                         <a
-                                            href="mailto:you@example.com"
+                                            href="mailto:sky.moizi9@gmail.com"
                                             className="text-gray-300 hover:text-orange-300 mx-4 lg:mx-6"
                                         >
                                             <i className="fas fa-envelope fa-2x"></i>
