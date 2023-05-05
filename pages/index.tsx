@@ -1,7 +1,6 @@
 import Image from "next/image";
 import memoji from "../public/memoji.png";
 import Head from "next/head";
-import favicon from "../public/grad1.svg";
 
 import Home from "./home";
 
