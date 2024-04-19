@@ -23,7 +23,7 @@ export default function Test() {
                     ellipseProps={{}}
                     svgProps={{ className: "rotating-curved-text" }}
                 />
-                {/* <div className="flex max-w-[450px] items-start lg:-ml-2">
+                {/* <div className="flex max-w-[450px] items-start  lg:-ml-2">
             <div className="s-[132px] lg:s-[184px]">
               <div className="relative w-full h-full styles_avatar-editor-wrapper__hgyBW">
                 <div className="border-2 rounded-full">
